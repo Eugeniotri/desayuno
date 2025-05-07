@@ -1,0 +1,17 @@
+<?xml version="1.0"encoding="UTF-8"?>
+<RSS version="2.0">
+    <channel>
+        
+    </channel>
+<!DOCTYPE desayuno SYSTEM "desayuno.dtd">
+<!-- <desayuno xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xsi:noNamespaceSchemaLocation="desayuno.xsd">-->
+
+<desayuno>
+    <zumo>
+        <tipo>naranja</tipo>
+    </zumo>
+    <cafe>cafe solo</cafe>
+    <tostada>tostada de jamon</tostada>
+</desayuno>
+</RSS>

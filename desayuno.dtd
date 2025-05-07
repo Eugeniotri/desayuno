@@ -1,0 +1,6 @@
+<!DOCTYPE desayuno [
+    <!ELEMENT desayuno (zumo,cafe,tostada)> 
+    <!ELEMENT zumo (#PCdata)>
+    <!ELEMENT cafe (#PCDATA)>
+    <!ELEMENT tostada(#PCDATA)>
+]>

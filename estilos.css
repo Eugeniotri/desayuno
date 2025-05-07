@@ -1,0 +1,51 @@
+/*HOJAS CSS
+selector{
+propiedad :valor;
+propiedad:valor;
+
+}*/
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: black;
+    background-color: aliceblue;
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+    color: aqua;
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
+table{
+    
+    padding: auto;
+    margin: auto;
+    width:100%;
+    border-style: solid ;
+    margin: 20px;
+    text-align: center;
+
+}
+tr{
+    border:5px black  solid;
+    padding: 8px;
+
+}
+th{
+    padding: 12px;
+    text-align: center;
+    margin:auto;
+}
+.texto_azul{
+    color:blue;    
+
+}
